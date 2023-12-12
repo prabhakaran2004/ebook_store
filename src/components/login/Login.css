@@ -1,0 +1,67 @@
+.wrapper{
+  width: 520px;
+  height: 580px;
+  background: transparent;
+  border: 2px solid rgba(255,255,255,.2);
+  backdrop-filter: blur(30px);
+  box-shadow: 0 0 10px rgba(0,0,0,.2);
+  color: #fff;
+  border-radius: 10px;
+  padding: 30px 40px;
+  margin-left: 130px;
+  margin-top: 50px;
+}
+
+#title{
+  color: rgb(255, 255, 255);
+  margin-left: 265px;
+  margin-top: -65px;
+}
+#welcome{
+  margin-left: 90px;
+  margin-top: -50px;
+}
+#email_text{
+  margin-top: -10px;
+  margin-left: 60px;
+}
+#password_text{
+  Margin-left: 60px;
+}
+#text{
+  height: 40px;
+  width: 400px;
+  margin-left: 60px;
+  border-radius: 10px;
+}
+#forgot_pass{
+  font-size: 18px;
+  margin-left: 60px;
+}
+#login_button{
+  margin-left: 50px;
+  margin-top: -5px;
+  height: 40px;
+  width: 240px;
+  border-radius: 50px;
+}
+#login_button1{
+  margin-left: 50px;
+  margin-top: 2px;
+  height: 60px;
+  height: 40px;
+  width: 240px;
+  border-radius: 50px;
+}
+.hr
+{
+  margin-top: -10px;
+}
+#sign_msg{
+  font-size: 18px;
+  margin-top:25px;
+  margin-left: 60px;
+}
+hr{
+  background-color: rgb(255, 0, 0);
+}
